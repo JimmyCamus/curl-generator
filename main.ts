@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 interface Curl {
   path: string;
   url: string;
